@@ -62,13 +62,21 @@ An interactive **Streamlit dashboard** is then built to visualize:
 ```
 IMDB_Movie_Insights_Dashboard/
 │
-├── etl_cleaning.py              # ETL script to clean raw data
-├── movie_dashboard.py           # Streamlit dashboard app
-├── cleaned_high_rated_movies.csv
-├── README.md                    # You're reading it!
-├── requirements.txt             # Python dependencies
-└── screenshots/                 # Dashboard preview images (optional)
-```
+├── imdb_top_1000.xlsx               # Raw dataset
+├── cleaned_high_rated_movies.csv    # Cleaned output from ETL
+│
+├── etl_pipeline.py                  # ETL script
+├── visualize_movies.py              # Plotting/visualization script
+├── movie_dashboard.py               # Streamlit dashboard app
+│
+├── bar_graph.png                    # Visualization screenshot
+├── pie_chart.png                    # Visualization screenshot
+├── ratings.png                      # Visualization screenshot
+│
+├── README.md                        # Project overview
+└── requirements.txt                 # Python dependencies
+ 
+
 
 ---
 
