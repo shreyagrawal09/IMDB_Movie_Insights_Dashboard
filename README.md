@@ -2,6 +2,8 @@
 
 This is a simple project that I have made while learning the process of ETL (Extract, Transform and Load) which showcases an **end-to-end ETL pipeline** followed by an **interactive Streamlit dashboard** built using a dataset of top-rated movies from IMDB.
 
+---
+
 ## 🔍 Project Overview
 
 We perform the full **ETL process**:
@@ -33,7 +35,6 @@ An interactive **Streamlit dashboard** is then built to visualize:
 - Matplotlib
 - Streamlit
 
-
 ---
 
 ## 🚀 Getting Started
@@ -47,7 +48,6 @@ An interactive **Streamlit dashboard** is then built to visualize:
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-
    ```
 
 3. **Run the dashboard**:
@@ -75,8 +75,7 @@ IMDB_Movie_Insights_Dashboard/
 │
 ├── README.md                        # Project overview
 └── requirements.txt                 # Python dependencies
- 
-
+```
 
 ---
 
