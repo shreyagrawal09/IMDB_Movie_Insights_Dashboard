@@ -47,11 +47,6 @@ An interactive **Streamlit dashboard** is then built to visualize:
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-it includes:
-pandas
-streamlit
-seaborn
-matplotlib
 
    ```
 
