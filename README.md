@@ -33,9 +33,6 @@ An interactive **Streamlit dashboard** is then built to visualize:
 - Matplotlib
 - Streamlit
 
----
-
-## 📊 Dashboard Screenshots
 
 ---
 
@@ -43,8 +40,8 @@ An interactive **Streamlit dashboard** is then built to visualize:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/imdb-movie-dashboard.git
-   cd imdb-movie-dashboard
+   git clone https://github.com/shreyagrawal09/IMDB_Movie_Insights_Dashboard.git
+   cd IMDB_Movie_Insights_Dashboard
    ```
 
 2. **Install dependencies**:
@@ -62,7 +59,7 @@ An interactive **Streamlit dashboard** is then built to visualize:
 ## 📁 Project Structure
 
 ```
-imdb-movie-dashboard/
+IMDB_Movie_Insights_Dashboard/
 │
 ├── etl_cleaning.py              # ETL script to clean raw data
 ├── movie_dashboard.py           # Streamlit dashboard app
@@ -78,13 +75,6 @@ imdb-movie-dashboard/
 
 - [🎬 IMDB Movies Dataset on Kaggle](https://www.kaggle.com/datasets/sanjeetsinghnaik/imdb-top-1000-movies)
 
----
-
-## 💡 Future Enhancements
-
-- 📥 CSV download of filtered movies  
-- 📈 Genre or director-based pie charts  
-- 🌐 Deploy on Streamlit Cloud
 
 ---
 
@@ -94,7 +84,3 @@ imdb-movie-dashboard/
 *Final Year B.Tech Student | Data & Backend Enthusiast*
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
