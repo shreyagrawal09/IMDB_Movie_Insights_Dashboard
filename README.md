@@ -1,6 +1,6 @@
 # 🎬 IMDB Movie Insights Dashboard
 
-This is a simple project that I have made while learning the process of ETL(Extract, Transform and Load) which showcases an **end-to-end ETL pipeline** followed by an **interactive Streamlit dashboard** built using a dataset of top-rated movies from IMDB.
+This is a simple project that I have made while learning the process of ETL (Extract, Transform and Load) which showcases an **end-to-end ETL pipeline** followed by an **interactive Streamlit dashboard** built using a dataset of top-rated movies from IMDB.
 
 ## 🔍 Project Overview
 
